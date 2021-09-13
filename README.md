@@ -1,7 +1,5 @@
-<<<<<<< HEAD
-#   py-Assignment
 
-=======
+#   py-Assignment
 
 
 1.  Convert the following list of fruit names into upper case as shown below
@@ -28,4 +26,3 @@
     ---
     >  Expected Output : `{1: 1, 2: 4, 3: 9, 4: 16, 5: 25} `
 5.  Write a program to get the largest and smallest number from a list.
->>>>>>> 862933b8e2c888392cffabfeb28b6ca88da37fcc
